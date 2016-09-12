@@ -3,3 +3,4 @@ Git is free software.
 hello world
 l'm a programmer!
 singer man
+Git tracks changes
